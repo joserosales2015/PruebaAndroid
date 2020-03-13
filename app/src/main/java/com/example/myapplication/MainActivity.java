@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         lblsaludo = findViewById(R.id.lblSaludo);
-        lblsaludo.setText("pruebitas");
-    }
+        lblsaludo.setText("pruebitas agregado");
+}
     }
